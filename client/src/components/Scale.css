@@ -1,0 +1,20 @@
+.label-strictnessLevel {
+  color: #fff;
+  font-size: 0.8rem;
+  /* font-weight: 600; */
+  margin-bottom: 0.5rem;
+
+  color: #0b2c65cf;
+  font-weight: bold;
+}
+.scale-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 0 20px 0 20px;
+  background-color: #e8e5d4;
+  color: #0b2c65cf;
+  border: 2px solid white;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,11 @@
+pre {
+  background-color: #1e1e1e;
+  color: #f8f8f2;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+code {
+  /* font-family: "Courier New", Courier, monospace; */
+  color: greenyellow;
+}
